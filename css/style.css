@@ -73,3 +73,27 @@ body {
 	background: #0d0d0d;
 	
 }
+
+.legal {
+	color: white;
+	font-family:times new roman;
+	margin-right: 400px;
+	margin-left: 50px;
+	margin-top: 75px;
+}
+
+p.main {
+	font-weight: bold;
+	font-size: 24px;
+	
+	
+}
+
+footer {
+	color: white;
+	position: absolute;
+	bottom: 10px;
+	width: 100%;
+	text-align: center;
+	
+}
